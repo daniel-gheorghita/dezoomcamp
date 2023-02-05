@@ -1,0 +1,4 @@
+terraform init -> init the working directory
+terraform plan -> simulate the effects
+terraform apply -> actually create the resources
+terraform destroy -> delete the created resources
