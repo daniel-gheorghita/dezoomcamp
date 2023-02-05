@@ -1,0 +1,53 @@
+###
+### A complete description of a Prefect Deployment for flow 'etl-web-to-gcs'
+###
+name: Github ETL to GCS
+description: The main ETL function
+version: e8b5eb3a53521c41f3b64cdbfefc3d9a
+# The work queue that will handle this deployment's runs
+work_queue_name: default
+work_pool_name: default-agent-pool
+tags:
+- dev
+parameters: {}
+schedule: null
+is_schedule_active: true
+infra_overrides: {}
+
+###
+### DO NOT EDIT BELOW THIS LINE
+###
+flow_name: etl-web-to-gcs
+manifest_path: null
+infrastructure:
+  type: process
+  env: {}
+  labels: {}
+  name: null
+  command: null
+  stream_output: true
+  working_dir: null
+  _block_document_id: 3d9e8329-8106-4564-ae10-bd1338c2ab88
+  _block_document_name: anonymous-01d12732-188e-4a27-9ca3-3a47a454874c
+  _is_anonymous: true
+  block_type_slug: process
+  _block_type_slug: process
+storage:
+  repository: https://github.com/daniel-gheorghita/dezoomcamp/blob/main/2_workflow_orchestration
+  reference: null
+  access_token: null
+  include_git_objects: true
+  _block_document_id: d2a19fc5-444f-41a2-8c30-0e1159caa24a
+  _block_document_name: dezoomcamp-github
+  _is_anonymous: false
+  block_type_slug: github
+  _block_type_slug: github
+path: ''
+entrypoint: etl_web_to_gcs.py:etl_web_to_gcs
+parameter_openapi_schema:
+  title: Parameters
+  type: object
+  properties: {}
+  required: null
+  definitions: null
+timestamp: '2023-02-05T22:20:18.742299+00:00'
