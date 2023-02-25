@@ -1,0 +1,6 @@
+dbt init
+dbt run
+dbt seed
+dbt build
+dbt run --var 'is_test_run: false'
+dbt seed --full-refresh

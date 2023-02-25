@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: dezoomcamp-green-taxi
+    schema: fhv
+
+    tables:
+      - name: tripdata_non_partitioned
