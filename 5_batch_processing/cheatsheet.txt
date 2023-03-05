@@ -1,0 +1,5 @@
+on VM: 
+jupyter notebook --no-browser --port=8080
+
+local:
+ssh -L 8080:localhost:8080 dg@<REMOTE_VM_IP>
