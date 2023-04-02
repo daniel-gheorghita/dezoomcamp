@@ -1,0 +1,780 @@
+,NISCode,NameFre,NameDut,NameGer,TransactionType,ParcelNature,ParcelsNumber,PriceP25,PriceP50,PriceP75,ParcelsAreaP25,ParcelsAreaP50,ParcelsAreaP75
+0,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,1,606.0,6000.0,14267.74,30000.0,1757.0,3366.5,6421.0
+1,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,2,186.0,3292.24,11162.25,33000.0,1460.0,3505.0,7000.0
+2,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,3,35.0,8914.26,14197.5,25500.0,1560.0,3870.0,5880.0
+3,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,4,97.0,10888.0,23500.0,80000.0,209.0,390.0,881.0
+8,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,9,60.0,10575.0,18000.0,22500.0,579.0,1890.0,4110.5
+9,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,10,33.0,6731.33,20193.99,112900.0,1132.0,1718.0,4407.0
+28,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,36,6.0,10050.0,255275.0,500500.0,1000.0,1401.5,1645.0
+51,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,70,415.0,4588.8,9890.54,40000.0,36.0,155.0,775.0
+59,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,78,134.0,96500.0,133750.0,183750.0,426.0,611.5,884.0
+69,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,200,1650.0,94346.245,210000.0,320000.0,242.0,513.0,924.0
+72,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,203,15.0,5000.0,5000.0,5000.0,62.0,446.0,1331.0
+73,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,204,42.0,43500.0,104789.165,150000.0,20.0,81.5,355.0
+78,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,222,35.0,245000.0,405000.0,450000.0,203.0,329.0,473.0
+80,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,240,31.0,104166.665,157500.0,198750.0,1161.0,2167.0,4634.0
+87,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,247,28.0,25090.0,25090.0,25090.0,88.5,566.5,2728.5
+89,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,261,6.0,525000.0,525000.0,525000.0,260.0,1059.0,1495.0
+93,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,265,5.0,120000.0,120000.0,120000.0,764.0,891.0,3270.0
+136,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,371,12.0,9000.0,71965.5,134931.0,259.5,1107.0,1969.5
+154,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,406,5.0,129729.84,129729.84,129729.84,500.0,1056.0,1712.0
+155,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,407,53.0,130439.88,205000.0,302000.0,134.0,225.0,460.0
+203,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,503,20.0,65000.0,140000.0,237000.0,51.0,245.0,1211.0
+230,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,539,23.0,1637.34,210000.0,220000.0,129.0,751.0,3836.0
+315,2000,Région flamande,Vlaams Gewest,Flämische Region,COMMUNAUTE,200,5463.0,237650.0,368825.0,500000.0,256.0,509.0,880.0
+492,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,1,1806.0,27000.0,75000.0,200000.0,1950.0,3966.5,7589.0
+493,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,2,843.0,13000.0,85280.0,133000.0,2110.0,4510.0,9432.0
+494,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,3,120.0,13200.0,13200.0,13200.0,1585.0,2790.0,6064.5
+495,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,4,178.0,3250.0,5700.0,15000.0,238.0,481.0,830.0
+500,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,9,186.0,3468.0,6101.5,77800.0,1370.0,2891.0,6540.0
+501,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,10,115.0,10309.525,20000.0,47500.0,1080.0,2250.0,6510.0
+540,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,67,16.0,5000.0,5000.0,5000.0,296.0,656.5,1100.0
+543,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,70,307.0,24210.0,137500.0,193000.0,336.0,787.0,2426.0
+551,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,78,367.0,125000.0,157500.0,200000.0,408.0,708.0,1044.0
+557,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,164,7.0,154000.0,476999.99,799999.98,220.0,270.0,438.0
+561,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,200,2824.0,190000.0,275000.0,350000.0,275.0,611.0,1068.0
+564,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,203,37.0,35000.0,137250.0,150000.0,49.0,202.5,696.5
+565,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,204,107.0,39501.5,75000.0,225000.0,19.0,70.0,370.0
+570,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,222,121.0,300000.0,475000.0,600000.0,212.5,359.5,583.0
+572,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,240,89.0,200000.0,251666.665,325000.0,1000.0,2018.0,4314.0
+579,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,247,72.0,63000.0,74000.0,85000.0,113.5,526.0,2352.0
+581,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,261,7.0,525000.0,525000.0,525000.0,599.0,1726.0,2426.0
+585,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,265,10.0,474000.0,474000.0,474000.0,683.0,1258.5,1911.0
+628,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,371,32.0,75000.0,170000.0,318333.5,457.0,1122.5,2191.5
+647,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,407,94.0,150000.0,250000.0,485000.0,127.0,270.0,505.0
+695,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,503,38.0,2967.0,60000.0,150000.0,219.0,1133.5,2691.0
+722,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,539,41.0,119205.0,195000.0,270000.0,330.0,833.0,2531.0
+738,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,1,734.0,3200.0,4750.0,11000.0,1040.0,2691.5,6090.0
+739,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,2,341.0,7000.0,15000.0,70000.0,1378.0,3170.0,6460.0
+740,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,3,57.0,5000.0,5000.0,5000.0,1423.0,3090.0,4280.0
+741,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,4,197.0,26250.0,26250.0,26250.0,162.0,420.0,835.0
+746,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,9,49.0,3000.0,3775.0,16141.0,1306.0,2767.0,6310.0
+748,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,11,29.0,12500.0,126250.0,240000.0,979.0,2319.0,3990.0
+751,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,17,21.0,270000.0,270000.0,270000.0,1803.0,2255.0,3300.0
+758,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,26,5.0,12500.0,12500.0,12500.0,2208.0,2519.0,2780.0
+763,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,33,50.0,210000.0,210000.0,210000.0,161.0,400.0,908.0
+776,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,50,26.0,420000.0,647500.0,875000.0,183.0,450.0,1971.0
+789,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,70,1135.0,4350.0,15000.0,48000.0,89.0,356.0,913.0
+797,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,78,1165.0,2500.0,10380.1,129000.0,233.0,452.0,803.0
+807,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,200,2918.0,139249.25,255000.0,350000.0,289.0,584.0,1000.0
+810,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,203,38.0,200000.0,200000.0,200000.0,111.0,439.0,1353.0
+811,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,204,138.0,2500.0,2500.0,2500.0,19.0,50.0,279.0
+816,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,222,166.0,64401.0,64401.0,64401.0,165.0,272.5,496.0
+818,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,240,57.0,57900.0,180000.0,570000.0,1309.0,2039.0,4107.0
+821,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,243,5.0,50000.0,50000.0,50000.0,107.5,207.0,2773.5
+822,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,244,20.0,2974.7,21600.0,180000.0,1270.0,4821.0,9272.0
+825,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,247,60.0,15500.0,37400.0,142525.0,215.0,784.0,2446.0
+827,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,261,27.0,5000.0,1950675.0,2022407.2,1186.0,2262.0,7485.0
+829,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,263,6.0,147100.74,147100.74,147100.74,1062.0,2698.0,4636.0
+831,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,265,32.0,12000.0,14924.165,17848.33,953.0,2661.5,4093.0
+872,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,357,30.0,1121650.0,1146924.6,4105416.0,4830.0,8522.0,33388.0
+874,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,371,128.0,278579.855,437427.83,2049877.8,653.0,2100.0,4998.0
+884,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,381,10.0,229849.0,524924.5,820000.0,2117.0,2936.0,12687.0
+888,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,402,42.0,49240.0,91156.75,232500.0,343.0,801.0,2812.0
+893,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,407,267.0,175000.0,323125.12,450000.0,152.0,330.0,624.0
+894,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,408,23.0,635750.0,635750.0,635750.0,1564.0,2706.0,5686.0
+939,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,501,14.0,675000.0,675000.0,675000.0,1793.0,7477.0,18930.0
+941,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,503,25.0,46000.0,58850.0,95000.0,242.0,501.0,1408.0
+942,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,504,12.0,17500.0,17500.0,17500.0,169.5,296.5,3562.0
+968,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,539,139.0,2321.15,10000.0,41250.0,70.5,320.0,899.0
+984,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,1,243.0,5000.0,6390.0,35000.0,1330.0,3165.0,5120.0
+992,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,9,22.0,28690.0,28690.0,28690.0,2252.0,4465.0,7170.0
+993,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,10,22.0,1500.0,1625.0,1750.0,1020.0,2115.0,3175.0
+1035,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,70,93.0,2625.0,9375.0,75750.0,339.0,651.0,3750.0
+1043,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,78,46.0,140000.0,193500.0,250500.0,539.0,887.0,1376.0
+1053,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,200,399.0,150000.0,245500.0,340000.0,354.0,622.0,994.0
+1120,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,371,5.0,76230.0,141122.36,206014.72,249.0,995.0,1920.0
+1139,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,407,11.0,330000.0,415000.0,500000.0,166.0,236.0,708.0
+1230,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,1,1540.0,7934.5,16610.0,37993.0,1450.0,3150.0,6045.0
+1231,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,2,651.0,9576.0,24379.0,44000.0,1690.0,3560.0,6330.0
+1232,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,3,142.0,4500.0,8606.0,30000.0,1010.0,2236.0,3840.0
+1233,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,4,184.0,2000.0,6750.0,8415.0,310.5,493.0,784.0
+1238,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,9,160.0,4500.0,9567.5,15000.0,1282.5,2589.0,4097.5
+1239,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,10,93.0,8920.0,54867.5,132567.0,700.0,1540.0,2947.0
+1240,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,11,27.0,4125.0,16620.0,194250.0,1985.0,3650.0,5320.0
+1250,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,26,11.0,2631.0,4836.75,7042.5,898.0,2233.0,2680.0
+1255,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,33,77.0,1000.0,5000.0,12500.0,125.0,230.0,654.0
+1257,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,35,34.0,3750.0,5000.0,8250.0,270.0,787.5,1782.0
+1258,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,36,5.0,78.0,78.0,78.0,455.0,760.0,1660.0
+1278,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,67,14.0,55212.0,55212.0,55212.0,101.0,838.5,1872.0
+1281,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,70,75.0,5000.0,90000.0,152000.0,100.0,450.0,835.0
+1289,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,78,110.0,96500.0,165000.0,237500.0,506.0,722.5,1097.0
+1299,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,200,2875.0,200000.0,250000.0,320555.0,231.0,480.0,872.0
+1302,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,203,22.0,40000.0,108795.0,115000.0,124.0,367.5,750.0
+1303,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,204,120.0,10000.0,29000.0,40000.0,18.0,42.0,162.0
+1308,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,222,48.0,303200.0,526500.0,917000.0,184.5,279.0,475.5
+1310,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,240,82.0,230000.0,300000.0,360000.0,1520.0,2311.0,4120.0
+1314,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,244,6.0,42000.0,42000.0,42000.0,560.0,1772.0,2770.0
+1317,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,247,40.0,3240.0,20000.0,80000.0,128.5,476.0,1182.0
+1366,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,371,22.0,410000.0,434000.0,458000.0,125.0,475.0,2016.0
+1385,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,407,92.0,165000.0,245000.0,370000.0,139.5,243.5,603.5
+1391,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,413,6.0,12500.0,12500.0,12500.0,660.0,1390.0,4479.0
+1433,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,503,35.0,24506.0,50000.0,110000.0,98.0,865.5,1829.0
+1476,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,1,2770.0,14000.0,35000.0,100000.0,1165.0,2800.0,5850.0
+1477,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,2,1254.0,12500.0,30000.0,102535.25,1130.0,2870.0,5510.0
+1478,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,3,353.0,6700.0,14500.0,36000.0,1394.0,2740.0,5000.0
+1479,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,4,844.0,6400.0,20000.0,60100.0,144.5,370.5,648.5
+1480,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,5,26.0,30000.0,140000.0,270000.0,369.0,880.5,2834.0
+1484,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,9,645.0,5248.0,15500.0,90000.0,1250.0,2730.0,5480.0
+1485,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,10,243.0,15000.0,45685.5,130000.0,618.0,1156.0,2430.0
+1486,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,11,111.0,7500.0,15000.0,52500.0,1900.0,3385.0,6863.0
+1489,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,17,35.0,5610.0,312500.0,550000.0,830.0,2143.0,4865.0
+1490,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,18,17.0,40670.0,172835.0,305000.0,173.0,173.0,3410.0
+1496,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,26,24.0,45000.0,47500.0,50000.0,697.0,2062.5,3808.5
+1501,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,33,213.0,1000.0,2500.0,4900.0,188.0,419.0,902.0
+1503,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,35,143.0,10000.0,34750.0,159000.0,374.0,1290.0,4280.0
+1504,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,36,21.0,12500.0,22500.0,155000.0,868.0,1828.0,3225.0
+1508,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,42,12.0,11900.0,225000.0,305000.0,471.0,1053.0,2548.0
+1514,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,50,29.0,299820.0,551480.0,1078900.0,871.0,2673.0,5366.0
+1527,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,70,2780.0,5000.0,28000.0,179000.0,88.0,323.0,824.5
+1528,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,71,80.0,5000.0,20000.0,750000.0,12.0,13.0,17.0
+1535,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,78,3647.0,145000.0,245000.0,327725.0,253.0,407.0,642.0
+1536,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,79,9.0,22000.0,22000.0,22000.0,0.0,0.0,0.0
+1541,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,164,25.0,381000.0,518000.0,655000.0,123.0,235.0,607.0
+1545,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,200,16082.0,215000.0,290000.0,390000.0,180.0,365.0,747.0
+1546,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,201,7.0,160000.0,233000.0,285000.0,825.0,1577.0,3063.0
+1548,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,203,155.0,29000.0,95000.0,176000.0,77.0,351.0,854.0
+1549,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,204,522.0,21000.0,35000.0,107500.0,18.0,25.0,120.0
+1554,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,222,221.0,350000.0,508000.0,800000.0,136.5,229.5,420.5
+1555,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,223,7.0,96500.0,127750.0,159000.0,16.0,22.0,130.0
+1556,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,240,163.0,263000.0,400000.0,521976.31,1163.0,2200.0,3858.0
+1557,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,241,7.0,78862.0,78862.0,78862.0,141.0,5525.0,11266.0
+1559,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,243,9.0,56995.0,73497.5,90000.0,185.0,1176.0,2080.0
+1561,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,245,31.0,28000.0,76300.0,200000.0,172.0,679.0,2014.0
+1563,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,247,166.0,20000.0,50000.0,155000.0,73.5,397.5,1128.5
+1565,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,261,32.0,475000.0,775000.0,1025000.0,1244.5,2335.5,3670.5
+1567,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,263,16.0,122210.53,210000.0,580000.0,480.0,1015.0,1590.5
+1569,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,265,63.0,220000.0,491250.0,925000.0,331.0,1010.0,2676.0
+1571,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,281,7.0,180000.0,222500.0,542500.0,370.0,560.0,1298.0
+1582,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,301,5.0,640000.0,1006000.0,2606000.0,1498.0,3600.0,8854.0
+1610,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,357,34.0,645000.0,1300000.0,2200000.0,1374.0,4459.5,7414.0
+1611,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,370,5.0,333000.0,333000.0,333000.0,349.0,431.0,1076.0
+1612,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,371,205.0,186300.0,429850.0,850000.0,409.0,1073.0,2916.0
+1613,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,372,24.0,400.0,2000.0,9800.0,11.0,17.5,25.0
+1624,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,400,9.0,269000.0,345000.0,395000.0,309.0,455.0,534.0
+1626,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,402,37.0,295600.0,810000.0,1250000.0,268.0,532.0,2180.0
+1628,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,404,5.0,300000.0,790000.0,1267500.0,340.0,549.0,1083.0
+1630,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,406,14.0,97500.0,181365.7,300000.0,298.0,747.0,1085.0
+1631,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,407,786.0,208500.0,280000.0,399500.0,123.0,233.5,466.5
+1632,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,408,21.0,490000.0,775000.0,1720000.0,805.0,2214.0,3296.0
+1633,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,409,6.0,211000.0,1100000.0,2500000.0,901.0,1282.5,3503.0
+1635,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,411,12.0,350000.0,427000.0,715000.0,1063.0,1522.0,1780.0
+1637,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,413,27.0,645000.0,1150000.0,1637500.0,793.0,2088.5,3673.0
+1654,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,434,7.0,520101.0,1401000.0,3475000.0,457.0,1763.0,5125.0
+1662,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,460,9.0,35000.0,95000.0,4525000.0,1062.0,2007.0,2447.0
+1677,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,501,13.0,364000.0,364000.0,364000.0,608.0,6606.0,11250.0
+1679,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,503,273.0,25000.0,80000.0,154000.0,188.0,611.0,1600.0
+1687,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,520,8.0,300000.0,420500.0,541000.0,168.5,269.5,1312.0
+1706,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,539,356.0,31000.0,140000.0,290000.0,89.0,338.0,1368.0
+1722,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,1,73.0,37000.0,119000.0,215000.0,1316.0,3150.0,6067.0
+1723,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,2,34.0,25000.0,28000.0,138000.0,1755.0,4056.5,5900.0
+1725,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,4,23.0,15750.0,92000.0,188000.0,355.0,489.0,650.0
+1730,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,9,19.0,5250.0,7500.0,9000.0,700.0,2260.0,4749.0
+1731,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,10,6.0,33500.0,33500.0,33500.0,1260.0,3033.0,5049.0
+1773,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,70,28.0,137500.0,209000.0,288000.0,381.0,789.5,1258.5
+1781,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,78,50.0,122500.0,140500.0,241500.0,400.0,722.5,969.0
+1791,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,200,475.0,172000.0,230500.0,313000.0,187.0,352.0,738.0
+1794,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,203,5.0,164000.0,192500.0,221000.0,105.0,499.0,788.0
+1795,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,204,8.0,85000.0,129000.0,173000.0,21.0,23.0,190.5
+1800,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,222,6.0,299000.0,508000.0,848000.0,140.0,250.5,340.0
+1802,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,240,6.0,485000.0,531000.0,577000.0,2170.0,2634.0,3050.0
+1877,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,407,19.0,171000.0,218500.0,312000.0,115.0,139.0,382.0
+1968,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,1,8237.0,11190.0,28000.0,88000.0,1375.0,3160.0,6322.0
+1969,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,2,3617.0,11500.0,28193.0,85000.0,1480.0,3360.0,6660.0
+1970,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,3,758.0,5704.0,14000.0,32080.0,1360.0,2735.0,4937.0
+1971,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,4,1728.0,6000.0,19000.0,60100.0,174.0,410.0,731.5
+1972,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,5,47.0,30000.0,190000.0,270000.0,510.0,1208.0,2834.0
+1976,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,9,1197.0,5000.0,14000.0,61000.0,1200.0,2706.0,5280.0
+1977,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,10,629.0,10000.0,30000.0,125000.0,699.0,1433.0,3110.0
+1978,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,11,230.0,8000.0,17060.0,75000.0,2000.0,3695.0,6320.0
+1979,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,13,9.0,16000.0,16000.0,16000.0,6700.0,8876.0,18735.0
+1980,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,14,8.0,412704.0,466352.0,520000.0,1190.0,1527.5,3025.0
+1981,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,17,78.0,137805.0,291250.0,431250.0,1233.0,2182.5,3467.0
+1982,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,18,28.0,40670.0,172835.0,305000.0,173.0,2195.5,6603.0
+1988,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,26,51.0,7042.5,12500.0,45000.0,898.0,2519.0,3900.0
+1993,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,33,494.0,1000.0,4000.0,12500.0,151.0,354.0,820.0
+1995,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,35,262.0,6400.0,22364.0,88000.0,350.0,1182.5,3341.0
+1996,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,36,65.0,10050.0,17700.0,155000.0,868.0,1645.0,3225.0
+2000,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,42,24.0,11900.0,225000.0,305000.0,360.0,564.5,1698.5
+2002,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,44,18.0,1792.5,1792.5,1792.5,360.0,872.5,1660.0
+2006,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,50,58.0,372480.0,551480.0,950000.0,367.0,1404.0,4469.0
+2016,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,67,71.0,5000.0,55212.0,102000.0,195.0,731.0,1271.0
+2018,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,69,10.0,163.1,163.1,163.1,7.0,20.5,381.0
+2019,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,70,5219.0,5000.0,31350.0,175000.0,95.0,357.0,921.0
+2020,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,71,109.0,12500.0,285000.0,650000.0,12.0,14.0,26.0
+2027,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,78,6435.0,140000.0,234120.0,320000.0,275.0,460.0,749.0
+2028,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,79,11.0,22000.0,22000.0,22000.0,0.0,0.0,0.0
+2033,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,164,168.0,267500.0,518000.0,727499.99,233.0,462.0,1307.0
+2037,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,200,32686.0,200000.0,280000.0,375000.0,211.0,445.0,844.0
+2038,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,201,15.0,232000.0,250000.0,300000.0,694.0,1325.0,2395.0
+2039,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,202,5.0,30000.0,30000.0,30000.0,51.0,71.0,89.0
+2040,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,203,304.0,32000.0,112500.0,175000.0,80.0,378.0,856.0
+2041,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,204,1025.0,21500.0,37000.0,110000.0,19.0,30.5,202.0
+2046,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,222,643.0,320000.0,489876.0,734000.0,166.0,265.0,473.0
+2047,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,223,15.0,96500.0,127750.0,159000.0,18.0,26.0,234.0
+2048,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,240,507.0,225000.0,310000.0,464900.0,1166.0,2167.0,4120.0
+2049,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,241,16.0,78862.0,260000.0,650000.0,175.0,2099.0,6665.5
+2051,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,243,30.0,50000.0,56995.0,90000.0,95.5,225.0,2040.5
+2052,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,244,54.0,12287.35,31800.0,111000.0,1353.0,3200.0,6931.0
+2053,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,245,88.0,28000.0,76300.0,200000.0,198.0,1266.0,4609.0
+2055,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,247,406.0,20000.0,50000.0,150000.0,120.0,489.5,1706.0
+2057,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,261,84.0,475000.0,775000.0,1050000.0,864.0,1726.0,3666.0
+2059,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,263,38.0,122210.53,210000.0,300000.0,470.0,1122.0,2172.0
+2061,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,265,119.0,200000.0,393750.0,850000.0,489.0,1245.0,3272.0
+2063,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,281,13.0,160000.0,205000.0,277452.86,370.0,492.0,936.0
+2072,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,290,7.0,110000.0,387500.0,665000.0,268.0,2682.0,31151.0
+2074,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,301,12.0,640000.0,1006000.0,2606000.0,1216.0,6597.5,9253.5
+2085,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,340,7.0,1184000.0,1184000.0,1184000.0,1420.0,6197.0,29958.0
+2102,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,357,66.0,645000.0,1146924.6,2200000.0,2413.0,5924.0,11492.0
+2103,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,370,14.0,333000.0,333000.0,333000.0,156.0,252.5,431.0
+2104,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,371,425.0,165000.0,410000.0,850000.0,441.5,1199.0,3262.0
+2105,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,372,52.0,400.0,2000.0,9800.0,10.0,19.0,29.0
+2113,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,380,6.0,1400000.0,1400000.0,1400000.0,981.0,2176.5,6826.0
+2114,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,381,14.0,229849.0,450000.0,820000.0,1467.0,2478.0,10097.0
+2116,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,400,12.0,269000.0,345000.0,395000.0,327.5,411.5,645.0
+2118,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,402,88.0,175000.0,366000.0,1150000.0,276.5,679.5,2785.5
+2120,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,404,11.0,300000.0,790000.0,1267500.0,340.0,1083.0,2062.0
+2121,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,405,5.0,325000.0,325000.0,325000.0,1929.0,1929.0,4726.0
+2122,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,406,33.0,97500.0,181365.7,300000.0,396.5,789.5,1723.5
+2123,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,407,1431.0,195000.0,276000.0,395000.0,135.0,253.0,510.0
+2124,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,408,48.0,520000.0,775000.0,1665000.0,1127.0,2531.0,4018.0
+2125,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,409,12.0,211000.0,440000.0,1100000.0,900.5,1282.5,3325.0
+2127,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,411,18.0,350000.0,463500.0,715000.0,797.0,1143.0,1702.0
+2129,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,413,53.0,355000.0,835000.0,1575000.0,828.0,2158.0,4479.0
+2146,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,434,15.0,411050.5,960550.5,2438000.0,389.0,1897.0,5125.0
+2151,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,444,9.0,531788.0,531788.0,531788.0,812.0,7672.0,13232.0
+2153,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,446,6.0,505000.0,505000.0,505000.0,1080.0,1130.0,1130.0
+2154,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,460,99.0,35000.0,95000.0,4525000.0,998.0,2109.0,4259.0
+2160,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,482,7.0,337500.0,337500.0,337500.0,358.0,1598.0,3217.0
+2169,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,501,35.0,364000.0,519500.0,675000.0,468.0,4891.0,13612.0
+2171,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,503,417.0,25000.0,77000.0,150000.0,188.0,700.0,1600.0
+2172,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,504,19.0,17500.0,17500.0,17500.0,187.0,833.0,3286.0
+2179,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,520,26.0,300000.0,420500.0,541000.0,85.0,216.0,439.0
+2198,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,539,596.0,27500.0,132500.0,267500.0,105.0,378.5,1419.0
+2214,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,1,394.0,1800.0,12000.0,24272.0,1599.0,3025.0,6886.0
+2215,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,2,372.0,7488.53,17100.0,20000.0,1305.0,3276.0,8010.5
+2216,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,3,117.0,1339.0,2600.0,4000.0,950.0,2210.0,5180.0
+2217,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,4,126.0,1985.0,4735.0,13500.0,177.0,400.0,610.0
+2223,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,10,66.0,23924.0,53000.0,95000.0,1360.0,3110.5,6350.0
+2265,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,70,162.0,5000.0,67750.0,140000.0,36.0,653.5,1792.0
+2273,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,78,49.0,79757.58,217500.0,250000.0,297.0,628.0,1318.0
+2279,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,164,6.0,920000.0,920000.0,920000.0,200.0,1017.0,3075.0
+2283,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,200,1225.0,130000.0,200000.0,275000.0,240.0,531.0,1050.0
+2286,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,203,27.0,205000.0,205000.0,205000.0,23.0,95.0,342.0
+2287,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,204,48.0,12000.0,33000.0,91000.0,21.0,36.0,77.5
+2292,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,222,8.0,96750.0,225485.0,265485.0,244.5,338.5,529.0
+2294,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,240,22.0,78693.94,230000.0,559000.0,1135.0,1764.0,3528.0
+2301,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,247,36.0,3600.0,20550.0,37500.0,80.0,193.0,685.5
+2350,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,371,9.0,26250.0,90000.0,240000.0,631.5,862.5,1208.0
+2369,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,407,31.0,165000.0,200000.0,250000.0,112.0,180.0,301.0
+2417,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,503,12.0,22750.0,58750.0,202450.0,84.0,260.0,1294.0
+2444,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,539,20.0,83000.0,181500.0,280000.0,145.5,804.5,1396.5
+2706,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,1,1264.0,37359.0,50000.0,120000.0,1770.0,3645.0,7431.5
+2707,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,2,1163.0,25000.0,41800.0,80000.0,1530.0,3000.0,6472.0
+2708,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,3,301.0,22500.0,50000.0,66000.0,910.0,1900.0,4235.0
+2709,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,4,161.0,2000.0,40000.0,50000.0,156.0,400.0,680.0
+2714,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,9,1006.0,10000.0,37500.0,65000.0,765.0,1730.0,3980.0
+2715,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,10,110.0,20000.0,60000.0,100000.0,1070.0,2451.5,8200.0
+2733,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,35,79.0,30000.0,30000.0,30000.0,600.0,1551.0,3650.0
+2757,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,70,280.0,22000.0,50000.0,77000.0,335.0,854.0,1727.0
+2765,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,78,95.0,62000.0,90780.0,125000.0,690.0,1054.0,1531.0
+2775,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,200,1271.0,120000.0,170000.0,250000.0,239.0,582.0,1070.0
+2778,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,203,22.0,40000.0,40000.0,40000.0,38.0,96.5,247.0
+2779,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,204,125.0,14000.0,70000.0,75000.0,18.0,31.0,80.0
+2784,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,222,8.0,300000.0,400000.0,400000.0,207.5,377.5,537.5
+2786,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,240,41.0,150000.0,232500.0,312000.0,950.0,1480.0,2510.0
+2793,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,247,64.0,16000.0,68000.0,120000.0,112.0,408.0,1029.0
+2842,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,371,9.0,87500.0,145000.0,295000.0,279.0,581.0,895.0
+2861,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,407,46.0,150000.0,200000.0,400000.0,149.0,210.0,386.0
+2909,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,503,36.0,30000.0,60000.0,145000.0,108.0,850.5,1557.5
+2917,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,520,6.0,150000.0,150000.0,150000.0,45.0,248.0,386.0
+2936,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,539,51.0,15000.0,50000.0,85000.0,104.0,564.0,1515.0
+2952,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,1,437.0,3000.0,7000.0,65000.0,2080.0,3740.0,7770.0
+2953,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,2,420.0,5792.0,8252.2,27060.0,1134.5,2602.5,5532.5
+2954,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,3,121.0,110000.0,110000.0,110000.0,870.0,2220.0,4430.0
+2955,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,4,132.0,45000.0,45000.0,45000.0,145.5,319.0,656.0
+2960,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,9,193.0,150000.0,150000.0,150000.0,1980.0,4200.0,9730.0
+2979,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,35,50.0,1500.0,51192.5,100885.0,380.0,1447.5,3268.0
+3003,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,70,499.0,5000.0,32724.5,75099.0,100.0,554.0,1251.0
+3010,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,77,18.0,500.0,500.0,500.0,73.0,198.5,541.0
+3011,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,78,173.0,20000.0,59148.5,175000.0,367.0,836.0,1115.0
+3019,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,166,6.0,550000.0,550000.0,550000.0,96.0,355.5,486.0
+3021,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,200,1135.0,140000.0,212500.0,290000.0,251.0,559.0,1111.0
+3025,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,204,79.0,6000.0,7000.0,17551.89,20.0,30.0,119.0
+3030,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,222,25.0,262500.0,262500.0,262500.0,130.0,446.0,830.0
+3032,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,240,28.0,246750.0,246750.0,246750.0,1129.0,2057.5,4620.0
+3039,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,247,37.0,20000.0,20000.0,20000.0,149.0,516.0,1284.0
+3041,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,261,13.0,600000.0,885650.0,1090609.08,2483.0,3558.5,6498.5
+3088,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,371,35.0,36000.0,200000.0,410000.0,759.0,2586.0,5285.0
+3107,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,407,84.0,135000.0,163137.5,347500.0,130.0,216.5,461.5
+3108,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,408,52.0,66000.0,66000.0,66000.0,3793.0,5193.0,6563.0
+3134,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,443,10.0,13912500.0,13912500.0,13912500.0,3516.0,6234.0,8086.0
+3137,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,446,6.0,3115000.0,3115000.0,3115000.0,298.0,3223.0,18570.0
+3138,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,460,23.0,99700.0,99700.0,99700.0,1218.0,1839.0,3353.0
+3153,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,501,12.0,9922.5,19961.25,30000.0,565.0,1736.0,17041.0
+3155,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,503,17.0,40000.0,185000.0,285000.0,384.0,660.0,1080.0
+3182,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,539,79.0,11950.0,64230.0,435292.155,129.0,440.0,962.0
+3198,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,1,711.0,25000.0,28800.0,70000.0,1680.0,2960.0,5800.0
+3199,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,2,640.0,4750.0,55000.0,208500.0,1420.0,2962.5,6795.5
+3200,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,3,162.0,2000.0,9000.0,436049.8,770.0,1700.0,4020.0
+3201,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,4,80.0,5000.0,5000.0,5000.0,219.5,397.5,536.0
+3206,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,9,472.0,1995.5,5747.75,9500.0,1340.0,2715.0,6645.0
+3207,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,10,34.0,220000.0,220000.0,220000.0,1150.0,2423.0,7590.0
+3249,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,70,196.0,70300.0,204137.5,300000.0,382.0,1106.5,3090.5
+3257,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,78,32.0,49280.0,75040.0,250000.0,1022.5,1269.0,2044.5
+3263,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,164,6.0,350000.0,350000.0,350000.0,142.0,668.0,1518.0
+3267,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,200,647.0,150000.0,200000.0,287177.2,253.5,617.5,1130.5
+3271,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,204,31.0,13000.0,25000.0,90000.0,25.0,50.0,119.0
+3278,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,240,25.0,150000.0,150000.0,150000.0,770.0,1480.0,2380.0
+3285,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,247,42.0,200000.0,200000.0,200000.0,60.0,142.0,430.0
+3353,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,407,13.0,150000.0,150000.0,150000.0,160.0,190.0,310.0
+3401,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,503,11.0,9500.0,29750.0,50000.0,345.0,352.0,1260.0
+3428,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,539,37.0,205830.0,205830.0,205830.0,27.0,95.0,1154.0
+3444,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,1,1322.0,1980.0,4995.0,15419.0,1540.0,3150.0,6829.0
+3445,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,2,933.0,2000.0,5840.0,19616.0,1200.0,2510.0,5515.0
+3446,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,3,333.0,1021.0,2727.5,9412.5,950.0,2030.0,3840.0
+3447,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,4,292.0,1100.0,3300.0,10000.0,174.0,372.5,619.0
+3451,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,8,40.0,100.0,166.25,450.0,395.0,665.0,2060.0
+3452,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,9,538.0,356.0,756.23,1940.0,950.0,2235.0,4390.0
+3453,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,10,120.0,2000.0,10000.0,53390.0,880.0,1816.5,3027.5
+3464,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,26,8.0,30000.0,30000.0,30000.0,920.0,2015.0,2791.5
+3469,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,33,101.0,80.0,730.0,1455.0,80.0,208.0,579.0
+3471,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,35,122.0,189.0,616.0,916.0,290.0,772.5,2000.0
+3492,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,67,10.0,1500.0,24700.0,150000.0,125.0,383.0,797.0
+3495,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,70,96.0,610.0,53000.0,111950.0,203.5,630.0,1440.5
+3502,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,77,34.0,195.0,800.0,18980.0,61.0,134.0,348.0
+3503,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,78,26.0,27500.0,40000.0,85000.0,531.0,834.5,1283.0
+3513,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,200,3213.0,120000.0,170000.0,230000.0,217.0,483.0,943.0
+3516,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,203,37.0,10000.0,19620.0,45000.0,30.0,80.0,261.0
+3517,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,204,213.0,7000.0,10000.0,24500.0,19.0,45.0,121.0
+3522,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,222,19.0,90000.0,350000.0,490000.0,163.0,218.0,377.0
+3524,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,240,57.0,122500.0,165000.0,205000.0,853.0,1418.0,2607.0
+3531,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,247,58.0,300.0,1500.0,55000.0,85.5,229.5,850.0
+3537,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,265,12.0,5000.0,30000.0,110000.0,122.5,273.0,944.0
+3579,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,370,6.0,65000.0,72500.0,80000.0,220.0,546.5,934.0
+3580,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,371,16.0,20000.0,20000.0,60000.0,168.5,283.5,815.0
+3599,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,407,73.0,122500.0,180000.0,225000.0,112.0,210.0,459.5
+3635,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,481,8.0,300.0,7650.0,15000.0,15.0,28.0,80.0
+3647,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,503,19.0,25000.0,28000.0,75000.0,142.0,272.0,595.0
+3655,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,520,8.0,1950.0,5460.0,8970.0,266.0,400.0,1743.5
+3690,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,1,1925.0,10000.0,35245.0,95000.0,1400.0,2840.0,5630.0
+3691,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,2,1814.0,15301.0,57500.0,115448.5,1159.0,2633.0,5760.0
+3692,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,3,642.0,5250.0,33700.0,81683.25,1000.0,2205.0,4170.0
+3693,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,4,926.0,4000.0,9000.0,45000.0,155.0,330.0,550.0
+3697,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,8,61.0,5000.0,15379.94,25000.0,408.0,900.0,1885.0
+3698,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,9,1353.0,5925.0,25000.0,66613.0,1390.0,2760.0,5610.0
+3699,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,10,164.0,42500.0,75000.0,100000.0,597.5,1335.5,2976.5
+3702,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,14,15.0,167414.0,167414.0,167414.0,2210.0,3240.0,5300.0
+3703,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,17,25.0,5275.0,35137.5,65000.0,504.0,817.0,2173.0
+3704,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,18,5.0,215000.0,215000.0,215000.0,603.0,679.0,1279.0
+3706,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,21,21.0,2800.0,6000.0,15000.0,200.0,419.0,5174.0
+3710,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,26,31.0,35000.0,35000.0,35000.0,1040.0,2730.0,5450.0
+3715,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,33,213.0,750.0,2275.0,3800.0,75.0,210.0,630.0
+3716,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,34,14.0,5800.0,5800.0,5800.0,40.0,96.0,520.0
+3717,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,35,249.0,7500.0,27000.0,65000.0,399.0,1700.0,3110.0
+3725,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,45,18.0,1000.0,1000.0,1000.0,1200.0,5410.0,17200.0
+3728,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,50,16.0,27474.72,76212.37,400000.0,1232.5,3796.0,10575.0
+3738,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,67,13.0,2500.0,2500.0,2500.0,56.0,68.0,489.0
+3741,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,70,2244.0,26799.0,68165.0,130000.0,184.0,708.0,1366.5
+3748,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,77,101.0,1500.0,1500.0,1500.0,50.0,165.0,318.0
+3749,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,78,1020.0,60000.0,109000.0,244500.0,412.5,776.0,1158.5
+3755,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,164,54.0,116684.14,203342.07,290000.0,136.0,164.0,960.0
+3759,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,200,8574.0,138000.0,200000.0,290000.0,175.0,371.0,818.5
+3762,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,203,150.0,30000.0,41500.0,85000.0,20.0,42.0,171.0
+3763,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,204,616.0,10000.0,17500.0,47750.0,19.0,35.0,88.0
+3768,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,222,51.0,264250.0,362500.0,486250.0,128.0,224.0,417.0
+3769,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,223,13.0,82875.0,167500.0,300000.0,52.0,317.0,545.0
+3770,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,240,92.0,100000.0,130000.0,240000.0,505.0,1216.5,2158.5
+3775,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,245,15.0,160000.0,160000.0,160000.0,32.0,69.0,120.0
+3777,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,247,163.0,30000.0,50000.0,112413.0,60.0,184.5,724.0
+3779,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,261,28.0,150000.0,297800.0,672500.0,416.5,877.5,2309.0
+3781,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,263,6.0,100000.0,235000.0,370000.0,190.0,1049.0,1784.0
+3783,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,265,29.0,49000.0,135000.0,195000.0,140.0,415.0,857.0
+3824,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,357,10.0,145000.0,987500.0,1350000.0,331.0,1919.5,9918.0
+3825,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,370,11.0,42500.0,110000.0,227500.0,300.0,1386.0,2990.0
+3826,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,371,87.0,125000.0,300000.0,795000.0,422.0,992.0,2056.0
+3827,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,372,23.0,750.0,1175.0,1600.0,14.0,19.0,35.0
+3838,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,400,7.0,230000.0,400000.0,475000.0,275.0,500.0,588.0
+3840,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,402,18.0,170000.0,198000.0,401386.67,130.0,344.5,2223.0
+3843,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,405,5.0,222500.0,490000.0,750000.0,832.0,870.0,1124.0
+3844,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,406,8.0,115000.0,160000.0,205000.0,219.0,329.5,1317.0
+3845,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,407,397.0,125000.0,185000.0,295000.0,100.0,189.0,340.0
+3846,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,408,20.0,700000.0,1382750.0,2000000.0,1153.5,3267.0,5114.0
+3849,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,411,6.0,405000.0,405000.0,405000.0,482.0,627.5,835.0
+3851,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,413,6.0,336250.0,501200.0,821200.0,869.0,1099.0,2391.0
+3876,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,460,8.0,200000.0,280000.0,394500.0,566.5,1380.0,2907.5
+3891,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,501,6.0,175000.0,177500.0,180000.0,308.0,717.5,1528.0
+3893,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,503,247.0,36000.0,80500.0,135000.0,200.0,347.0,955.0
+3901,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,520,42.0,47500.0,140000.0,249750.0,45.0,102.5,754.0
+3920,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,539,349.0,20000.0,100000.0,208000.0,32.0,269.0,879.0
+3936,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,1,48.0,290000.0,290000.0,290000.0,1165.0,2665.0,4595.0
+3937,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,2,49.0,37722.91,78861.455,120000.0,774.0,2390.0,5759.0
+3938,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,3,24.0,5911.0,14688.34,30831.67,595.0,2230.0,4851.0
+3987,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,70,18.0,150000.0,150000.0,157000.0,272.0,825.0,1604.0
+3995,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,78,9.0,130000.0,150000.0,212500.0,1184.0,1338.0,1552.0
+4005,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,200,197.0,100000.0,161000.0,250000.0,180.0,400.0,858.0
+4009,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,204,6.0,21157.37,21157.37,21157.37,16.0,19.5,39.0
+4016,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,240,8.0,266000.0,283750.0,301500.0,848.5,1210.0,1922.0
+4023,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,247,10.0,61000.0,86000.0,87000.0,30.0,248.0,295.0
+4091,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,407,13.0,79000.0,111500.0,170000.0,216.0,260.0,292.0
+4139,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,503,6.0,23200.0,48500.0,60000.0,256.0,354.5,1079.0
+4147,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,520,5.0,8000.0,8000.0,8000.0,30.0,60.0,70.0
+4166,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,539,6.0,61000.0,75000.0,232000.0,30.0,108.5,493.0
+4182,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,1,6267.0,2808.5,9500.0,44100.0,1580.0,3110.0,6520.0
+4183,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,2,5508.0,4267.5,15850.0,70000.0,1286.0,2740.0,6120.0
+4184,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,3,1718.0,1573.75,5793.0,35000.0,930.0,2112.5,4132.0
+4185,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,4,1827.0,2850.0,6160.0,39000.0,161.0,354.0,585.0
+4186,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,5,8.0,25000.0,25000.0,25000.0,564.0,1250.0,1271.0
+4189,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,8,165.0,112.5,180.0,962.5,520.0,1180.0,2690.0
+4190,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,9,3957.0,461.0,1500.0,8000.0,1075.0,2414.0,5167.0
+4191,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,10,559.0,10000.0,56000.0,100000.0,860.0,1893.0,4020.0
+4194,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,14,25.0,2587.5,13850.0,96207.0,1889.0,2300.0,4025.0
+4195,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,17,67.0,5275.0,35137.5,65000.0,757.0,1794.0,6573.0
+4196,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,18,13.0,3500.0,109250.0,215000.0,679.0,1279.0,1340.0
+4198,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,21,30.0,2950.0,4550.0,10500.0,212.0,389.5,4572.0
+4201,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,25,5.0,5275.0,5275.0,5275.0,580.0,1600.0,1679.0
+4202,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,26,65.0,30000.0,32500.0,35000.0,1250.0,3077.0,5376.0
+4207,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,33,461.0,80.0,750.0,1800.0,80.0,240.0,699.0
+4208,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,34,21.0,5800.0,36400.0,67000.0,30.0,55.0,430.0
+4209,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,35,589.0,480.0,1500.0,27000.0,385.0,1330.0,2982.0
+4210,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,36,12.0,397.5,1253.15,5573.585,1885.0,2656.5,5315.5
+4212,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,39,11.0,1110.0,6055.0,11000.0,100.0,1490.0,2190.0
+4217,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,45,20.0,1000.0,3832.5,6665.0,1380.0,6777.5,15584.0
+4220,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,50,22.0,27474.72,76212.37,400000.0,866.0,1751.5,6383.0
+4230,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,67,45.0,2000.0,13600.0,87350.0,129.0,314.0,722.0
+4232,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,69,10.0,55000.0,125000.0,400000.0,13.0,1471.0,3155.0
+4233,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,70,3638.0,24750.0,65923.5,130000.0,192.0,720.5,1437.0
+4240,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,77,194.0,240.0,800.0,1500.0,63.0,162.5,326.0
+4241,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,78,1491.0,58500.0,105000.0,235000.0,437.0,837.0,1206.0
+4247,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,164,125.0,203342.07,320000.0,635000.0,136.0,300.5,1015.0
+4249,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,166,15.0,450000.0,500000.0,550000.0,95.0,284.0,438.0
+4251,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,200,17533.0,130000.0,190000.0,275000.0,200.0,449.0,941.0
+4253,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,202,13.0,62500.0,182500.0,316250.0,107.0,130.0,220.0
+4254,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,203,297.0,19620.0,40000.0,78000.0,23.0,58.0,266.0
+4255,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,204,1164.0,9000.0,15000.0,42500.0,20.0,36.0,95.0
+4260,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,222,119.0,247500.0,350000.0,475000.0,141.0,250.0,501.0
+4261,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,223,15.0,82875.0,167500.0,300000.0,52.0,317.0,545.0
+4262,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,240,284.0,120000.0,160000.0,243375.0,804.5,1462.5,2561.5
+4266,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,244,7.0,600000.0,600000.0,600000.0,330.0,1812.0,10000.0
+4267,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,245,25.0,10000.0,85000.0,160000.0,31.0,84.5,142.0
+4269,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,247,431.0,11000.0,45500.0,95000.0,75.0,240.0,862.0
+4271,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,261,57.0,150000.0,297800.0,672500.0,450.0,957.5,2889.0
+4273,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,263,14.0,80000.0,167500.0,270000.0,270.0,953.0,1784.0
+4275,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,265,69.0,40000.0,105000.0,165000.0,172.0,550.0,1368.0
+4298,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,324,5.0,511659.5,511659.5,511659.5,6852.0,34753.0,34753.0
+4316,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,357,26.0,145000.0,775000.0,1350000.0,1047.0,1919.5,8611.0
+4317,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,370,27.0,65000.0,72500.0,155000.0,97.0,630.0,1768.0
+4318,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,371,169.0,85000.0,200000.0,410000.0,383.0,971.0,2658.5
+4319,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,372,78.0,750.0,1175.0,1600.0,14.0,23.5,35.0
+4330,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,400,8.0,230000.0,400000.0,475000.0,220.5,408.0,569.5
+4332,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,402,28.0,190000.0,210000.0,349955.91,162.5,692.0,2964.5
+4334,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,404,6.0,650000.0,650000.0,650000.0,418.0,1583.0,2646.0
+4335,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,405,10.0,201040.0,280000.0,700000.0,870.0,1137.0,1422.0
+4336,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,406,11.0,40800.0,115000.0,205000.0,188.0,356.0,931.0
+4337,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,407,680.0,125000.0,181000.0,280000.0,115.0,200.0,364.5
+4338,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,408,81.0,475000.0,1131375.0,2668750.0,2069.0,4494.0,6279.0
+4339,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,409,5.0,115000.0,115000.0,115000.0,479.0,516.0,686.0
+4341,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,411,9.0,13000.0,405000.0,503321.84,620.0,635.0,918.0
+4343,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,413,13.0,225000.0,336250.0,592400.0,563.0,869.0,990.0
+4364,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,443,13.0,220000.0,1000000.0,13912500.0,3516.0,5590.0,8086.0
+4367,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,446,8.0,275000.0,1695000.0,3115000.0,461.0,3223.0,18570.0
+4368,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,460,34.0,149850.0,240000.0,337250.0,1218.0,1734.5,3353.0
+4373,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,481,18.0,300.0,7650.0,15000.0,8.0,20.0,40.0
+4383,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,501,22.0,30000.0,175000.0,180000.0,556.0,1449.0,3552.0
+4385,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,503,357.0,30000.0,75000.0,135000.0,200.0,374.5,1007.0
+4393,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,520,71.0,14485.0,71750.0,230000.0,45.0,240.0,770.0
+4395,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,522,17.0,27.0,27.0,27.0,12.0,44.0,75.0
+4412,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,539,558.0,20000.0,85000.0,187500.0,36.0,320.0,962.0
+4497,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,200,165.0,300000.0,420000.0,575000.0,103.0,151.0,260.0
+4506,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,222,9.0,530000.0,625000.0,912000.0,174.0,216.0,409.0
+4583,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,407,13.0,342500.0,450000.0,787500.0,106.0,130.0,165.0
+4989,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,200,264.0,192500.0,300000.0,550000.0,130.0,192.5,287.0
+4998,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,222,25.0,235000.0,450000.0,640000.0,140.0,221.0,324.0
+5075,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,407,35.0,245000.0,321000.0,544000.0,75.0,105.0,154.0
+5235,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,200,202.0,310000.0,414500.0,575000.0,120.0,175.0,247.0
+5259,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,265,7.0,1092000.0,1595895.0,2099790.0,118.0,125.0,713.0
+5316,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,402,7.0,6000000.0,6000000.0,6000000.0,258.0,463.0,805.0
+5321,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,407,50.0,270000.0,270000.0,270000.0,99.0,149.0,225.0
+5481,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,PARTAGE,200,26.0,301500.0,412500.0,832500.0,143.0,180.0,295.0
+5727,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,SUCCNALAT,200,240.0,318750.0,375000.0,482500.0,104.0,154.0,225.0
+5736,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,SUCCNALAT,222,12.0,645000.0,650000.0,650000.0,188.0,212.0,261.0
+5813,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,SUCCNALAT,407,22.0,235000.0,350000.0,510000.0,75.0,117.5,170.0
+5907,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,4,23.0,15500.0,23000.0,565000.0,98.0,200.0,395.0
+5917,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,17,10.0,125000.0,125000.0,125000.0,431.0,485.0,1620.0
+5955,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,70,42.0,150000.0,391500.0,825000.0,105.0,167.0,415.0
+5963,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,78,14.0,247500.0,585000.0,812500.0,244.0,292.0,508.0
+5973,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,200,890.0,370000.0,500000.0,730000.0,110.0,164.0,255.0
+5977,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,204,17.0,65000.0,97500.0,417500.0,20.0,26.0,88.0
+5982,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,222,41.0,530000.0,843000.0,1320000.0,153.0,190.0,364.0
+5997,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,265,12.0,262500.0,420000.0,521000.0,249.0,425.5,761.5
+6040,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,371,11.0,326250.0,518750.0,1812500.0,195.0,290.0,813.0
+6054,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,402,7.0,2500000.0,3440000.0,3940000.0,1694.0,3935.0,9886.0
+6059,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,407,74.0,350000.0,475000.0,750000.0,70.0,94.0,135.0
+6219,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEPUBIMMEUB,200,36.0,287000.0,404000.0,476000.0,110.0,167.0,220.0
+6399,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,4,47.0,15500.0,23000.0,565000.0,153.0,332.0,534.0
+6409,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,17,22.0,125000.0,125000.0,125000.0,450.0,756.5,1710.0
+6447,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,70,70.0,150000.0,391500.0,825000.0,75.0,167.0,492.0
+6455,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,78,33.0,250000.0,553162.5,735000.0,244.0,403.0,657.0
+6461,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,164,24.0,400000.0,400000.0,400000.0,143.0,354.0,1614.0
+6465,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,200,1936.0,323000.0,450000.0,650000.0,112.0,167.0,255.0
+6468,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,203,7.0,242000.0,281000.0,320000.0,183.0,281.0,365.0
+6469,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,204,33.0,80000.0,115000.0,525000.0,21.0,39.0,180.0
+6474,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,222,135.0,445000.0,650000.0,1000000.0,153.0,216.0,316.0
+6485,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,261,9.0,455000.0,471250.0,487500.0,375.0,448.0,1016.0
+6489,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,265,26.0,215000.0,440000.0,1092000.0,119.0,246.5,706.0
+6532,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,371,19.0,362500.0,500000.0,675000.0,195.0,495.0,1219.0
+6546,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,402,15.0,2500000.0,3440000.0,3940000.0,286.0,805.0,5260.0
+6551,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,407,213.0,300000.0,450000.0,627500.0,80.0,110.0,160.0
+6582,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,460,9.0,1258800.0,1258800.0,1258800.0,1310.0,1404.0,1725.0
+6626,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,539,8.0,320000.0,407500.0,495000.0,87.0,160.0,448.0
+6642,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,I,937.0,6731.33,14197.5,30000.0,1607.0,3280.0,6220.0
+6645,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,IV,52.0,360000.0,455000.0,550000.0,173.5,426.0,888.5
+6646,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,V,568.0,9890.54,61500.0,165000.0,59.0,325.0,882.5
+6647,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,VI,2410.0,86800.0,200000.0,306000.0,227.5,486.0,903.0
+6648,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,VII,71.0,58333.33,150000.0,165000.0,397.0,1705.0,2948.0
+6649,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,VIII,8.0,120000.0,245000.0,277452.86,720.5,913.5,3142.0
+6652,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,XI,75.0,117719.94,210000.0,313500.0,140.0,235.0,610.0
+6656,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,XV,31.0,80000.0,129729.84,200000.0,196.0,601.5,1712.0
+6658,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,XVII,45.0,9000.0,157465.5,210000.0,142.5,630.0,1969.5
+6659,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,XVIII,11.0,102000.0,102000.0,102000.0,71.0,428.0,966.0
+6665,2000,Région flamande,Vlaams Gewest,Flämische Region,COMMUNAUTE,VI,7020.0,237650.0,368825.0,500000.0,248.0,497.0,864.0
+6678,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,I,3112.0,20000.0,70560.0,150000.0,1853.5,3950.5,7780.0
+6681,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,IV,71.0,125000.0,500000.0,520000.0,150.0,297.0,730.0
+6682,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,V,741.0,108500.0,150000.0,200000.0,398.0,773.0,1350.0
+6683,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,VI,4802.0,175000.0,255000.0,350000.0,250.0,565.5,1011.5
+6684,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,VII,206.0,183333.53,250000.0,300000.0,292.0,1302.0,3937.0
+6685,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,VIII,20.0,110000.0,170000.0,300000.0,383.0,808.0,1897.0
+6688,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,XI,109.0,150000.0,250000.0,485000.0,134.0,278.0,676.0
+6690,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,XIII,11.0,306999.99,306999.99,306999.99,290.0,1062.0,3286.0
+6692,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,XV,42.0,3043.5,80000.0,150000.0,288.0,1291.5,2515.0
+6694,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,XVII,87.0,100000.0,190000.0,270000.0,211.0,805.0,2240.0
+6695,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,XVIII,23.0,5000.0,154000.0,799999.98,246.0,440.0,889.0
+6696,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,I,1283.0,3637.5,6775.0,31500.0,1130.0,2767.0,6009.0
+6697,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,II,36.0,12500.0,25000.0,270000.0,1913.0,2649.5,6421.0
+6698,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,III,26.0,420000.0,647500.0,875000.0,183.0,450.0,1971.0
+6699,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,IV,65.0,210000.0,210000.0,210000.0,220.0,499.0,1064.0
+6700,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,V,2344.0,3000.0,15000.0,100000.0,183.5,406.0,854.5
+6701,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,VI,4688.0,130000.0,250000.0,340000.0,246.0,528.5,962.0
+6702,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,VII,158.0,21600.0,50050.0,235000.0,649.0,1575.0,4107.0
+6703,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,VIII,56.0,12000.0,17848.33,147100.74,1315.0,3319.0,7549.0
+6705,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,X,38.0,1134287.3,1569503.075,3048748.775,4830.0,8522.0,33388.0
+6706,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,XI,415.0,75000.0,295690.0,565000.0,190.0,420.0,1090.0
+6708,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,XIII,93.0,17500.0,17500.0,17500.0,1049.0,2984.5,5201.0
+6709,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,XIV,8.0,337500.0,4141663.065,7945826.13,125.0,957.5,5510.5
+6710,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,XV,49.0,47350.0,82000.0,281000.0,279.0,740.5,4730.0
+6712,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,XVII,396.0,7404.26,45000.0,278100.0,169.5,727.5,3335.0
+6713,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,XVIII,279.0,15719.3,26750.0,55500.0,245.0,486.0,1301.0
+6714,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,I,385.0,4300.0,6320.0,28690.0,1496.0,3260.0,6016.0
+6718,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,V,146.0,15000.0,138250.0,200000.0,420.0,869.0,2126.0
+6719,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,VI,614.0,146000.0,241500.0,338000.0,335.0,600.0,994.0
+6724,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,XI,27.0,101000.0,330000.0,500000.0,193.0,323.0,684.0
+6730,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,XVII,13.0,76230.0,141122.36,206014.72,479.0,995.0,1938.0
+6732,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,I,2616.0,7869.0,18370.0,40000.0,1437.5,3098.5,5790.5
+6733,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,II,20.0,2631.0,4836.75,7042.5,1627.0,2366.5,2948.5
+6735,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,IV,89.0,1396.25,3550.0,9750.0,115.0,230.0,720.0
+6736,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,V,240.0,5000.0,96500.0,197100.0,311.0,624.5,1100.0
+6737,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,VI,4617.0,165000.0,234500.0,310000.0,215.0,458.0,843.0
+6738,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,VII,140.0,75000.0,230000.0,300000.0,579.0,1728.0,3385.0
+6739,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,VIII,7.0,160000.0,160000.0,160000.0,190.0,419.0,1235.0
+6742,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,XI,106.0,165000.0,245000.0,380000.0,139.5,271.5,737.5
+6744,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,XIII,6.0,12500.0,12500.0,12500.0,660.0,1390.0,4479.0
+6746,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,XV,39.0,24506.0,50000.0,110000.0,98.0,971.0,1884.0
+6748,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,XVII,67.0,410000.0,434000.0,458000.0,90.0,249.0,912.0
+6749,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,XVIII,23.0,55212.0,55212.0,55212.0,115.0,611.0,1345.0
+6750,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,I,5410.0,11391.76,30000.0,95000.0,1127.0,2723.5,5484.0
+6751,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,II,76.0,40670.0,50000.0,312500.0,639.0,1541.5,4020.0
+6752,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,III,29.0,299820.0,551480.0,1078900.0,871.0,2673.0,5366.0
+6753,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,IV,328.0,3250.0,57775.0,571000.0,58.0,315.0,856.0
+6754,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,V,6686.0,75000.0,180000.0,305000.0,192.0,394.0,725.0
+6755,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,VI,35503.0,168000.0,245000.0,348000.0,170.0,352.0,723.0
+6756,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,VII,389.0,90000.0,322500.0,455500.0,309.0,1134.0,3020.0
+6757,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,VIII,114.0,205000.0,450000.0,845000.0,395.0,1008.0,2619.0
+6759,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,X,44.0,518876.88,1300000.0,1600000.0,1564.0,4830.0,7644.0
+6760,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XI,1200.0,200000.0,285000.0,407000.0,135.0,264.0,550.0
+6761,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XII,8.0,505000.0,518394.0,531788.0,300.0,2312.5,13232.0
+6762,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XIII,38.0,355000.0,950000.0,1700000.0,802.0,2016.0,2570.0
+6763,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XIV,13.0,160000.0,320000.0,448000.0,42.0,144.0,970.0
+6764,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XV,302.0,28000.0,83500.0,160000.0,200.0,701.0,1624.0
+6765,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XVI,9.0,357550.5,960550.5,2438000.0,457.0,1169.0,4519.0
+6766,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XVII,1101.0,80000.0,230450.0,402258.635,135.0,496.5,1883.0
+6767,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,XVIII,66.0,163.1,381000.0,655000.0,68.0,175.0,708.0
+6768,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,I,139.0,18000.0,49910.0,138000.0,1315.0,3065.0,5526.0
+6772,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,V,84.0,129000.0,146000.0,255000.0,379.0,768.0,1006.5
+6773,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,VI,644.0,164000.0,221000.0,302000.0,182.0,355.0,712.0
+6774,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,VII,9.0,485000.0,531000.0,577000.0,1185.0,2634.0,3904.0
+6778,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,XI,22.0,171000.0,239000.0,312000.0,115.0,139.0,382.0
+6782,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,XV,6.0,54000.0,80000.0,92000.0,47.0,514.0,1164.0
+6784,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,XVII,7.0,200000.0,313500.0,427000.0,52.0,364.0,1920.0
+6786,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,I,14733.0,10000.0,25000.0,85000.0,1321.0,3070.0,6108.0
+6787,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,II,159.0,9771.25,42835.0,287500.0,851.0,2233.0,4130.0
+6788,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,III,58.0,372480.0,551480.0,950000.0,367.0,1404.0,4469.0
+6789,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,IV,654.0,2500.0,57775.0,500000.0,110.0,320.0,834.0
+6790,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,V,12134.0,72250.0,170000.0,298131.0,212.0,433.0,825.0
+6791,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,VI,60298.0,165000.0,245000.0,342000.0,200.0,423.0,817.0
+6792,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,VII,1106.0,82500.0,245250.0,392500.0,441.0,1485.0,3440.0
+6793,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,VIII,223.0,160000.0,350000.0,710000.0,419.0,1220.0,3327.0
+6795,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,X,88.0,518876.88,1184000.0,1992081.55,2330.0,6082.0,13849.5
+6796,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XI,2089.0,186500.0,280000.0,405277.5,149.0,300.0,692.0
+6797,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XII,26.0,505000.0,518394.0,531788.0,946.0,3029.5,10484.5
+6798,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XIII,176.0,301999.995,705000.0,1637500.0,802.0,2011.5,4128.0
+6799,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XIV,38.0,320000.0,337500.0,448000.0,17.5,142.0,1636.0
+6800,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XV,492.0,30000.0,80000.0,158000.0,202.0,779.0,1800.0
+6801,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XVI,17.0,302000.0,520101.0,1401000.0,389.0,1763.0,4575.0
+6802,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XVII,1803.0,72250.0,221675.0,400000.0,152.0,573.5,2110.5
+6803,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,XVIII,428.0,15719.3,65106.0,267500.0,190.5,447.0,1090.0
+6804,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,I,1313.0,2600.0,12000.0,36000.0,1291.0,2730.0,6100.0
+6805,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,II,17.0,3500.0,3500.0,3500.0,1090.0,1985.0,5550.0
+6808,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,V,258.0,22000.0,111450.0,227500.0,99.0,653.5,1570.0
+6809,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,VI,1660.0,129000.0,195000.0,270000.0,210.0,470.0,991.0
+6810,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,VII,58.0,37500.0,78693.94,230000.0,150.0,790.0,2390.0
+6814,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,XI,43.0,169000.0,224000.0,250000.0,122.0,222.0,389.5
+6818,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,XV,14.0,22750.0,58750.0,202450.0,178.0,280.0,931.0
+6820,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,XVII,40.0,83000.0,165000.0,280000.0,134.0,619.0,1202.0
+6821,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,XVIII,22.0,125000.0,522500.0,920000.0,269.0,432.5,923.0
+6827,3000,Région wallonne,Waals Gewest,Wallonische Region,COMMUNAUTE,VI,1599.0,102000.0,276000.0,450000.0,260.0,540.0,1057.5
+6840,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,I,3863.0,22500.0,50000.0,80000.0,1230.0,2683.0,5970.0
+6843,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,IV,50.0,13000.0,13000.0,13000.0,105.0,271.0,817.0
+6844,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,V,472.0,30000.0,62500.0,100000.0,431.0,992.5,1778.0
+6845,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,VI,2039.0,115600.0,160000.0,241000.0,180.0,471.0,981.5
+6846,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,VII,113.0,135000.0,167500.0,296000.0,225.0,755.0,1777.0
+6847,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,VIII,7.0,65000.0,65000.0,65000.0,105.0,618.0,718.0
+6850,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,XI,54.0,135000.0,200000.0,431000.0,149.0,225.0,425.0
+6854,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,XV,37.0,30000.0,60000.0,248500.0,117.0,854.0,1590.0
+6856,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,XVII,74.0,26000.0,65000.0,150000.0,104.0,495.5,958.0
+6857,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,XVIII,15.0,450000.0,450000.0,450000.0,98.0,397.0,741.0
+6858,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,I,1231.0,5792.0,9574.4,75000.0,1527.0,3000.0,6726.0
+6861,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,IV,41.0,67000.0,285160.92,503321.84,278.0,667.0,2315.0
+6862,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,V,751.0,5000.0,28350.0,100000.0,184.0,652.0,1297.0
+6863,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,VI,1819.0,130000.0,200000.0,282000.0,200.0,485.0,1020.0
+6864,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,VII,69.0,20000.0,133375.0,246750.0,305.0,1050.0,2818.0
+6867,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,X,17.0,750000.0,750000.0,750000.0,1571.0,3486.0,9776.0
+6868,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,XI,170.0,135000.0,183137.5,542550.0,200.0,625.0,4494.0
+6869,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,XII,20.0,3115000.0,8513750.0,13912500.0,1878.0,5372.5,12194.5
+6870,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,XIII,30.0,99700.0,99700.0,99700.0,591.0,1705.5,3353.0
+6872,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,XV,33.0,26250.0,105000.0,242500.0,556.0,1012.0,2102.0
+6874,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,XVII,181.0,18900.0,87300.0,410000.0,35.0,403.5,1653.0
+6875,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,XVIII,111.0,13374.9,281687.45,550000.0,160.0,427.0,953.0
+6876,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,I,2032.0,5000.0,25000.0,135000.0,1370.0,2750.0,6148.5
+6880,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,V,283.0,70300.0,155198.75,250000.0,398.0,1125.0,2867.0
+6881,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,VI,999.0,145000.0,200000.0,286088.6,218.0,516.0,1034.0
+6882,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,VII,73.0,150000.0,175000.0,200000.0,90.0,380.0,1481.5
+6883,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,VIII,5.0,150000.0,150000.0,150000.0,511.0,600.0,738.0
+6886,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,XI,25.0,150000.0,162500.0,175000.0,160.0,198.0,458.0
+6890,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,XV,13.0,9500.0,40800.0,50000.0,345.0,370.0,1260.0
+6892,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,XVII,54.0,107000.0,205830.0,360000.0,27.0,195.5,1471.0
+6893,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,XVIII,7.0,350000.0,350000.0,350000.0,142.0,452.0,1518.0
+6894,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,I,3293.0,1155.0,3600.0,12500.0,1187.0,2550.0,5384.0
+6895,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,II,18.0,30000.0,30000.0,30000.0,650.0,2015.0,3000.0
+6896,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,III,8.0,6665.0,30000.0,50000.0,1072.0,4390.5,14145.0
+6897,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,IV,111.0,80.0,860.0,1800.0,73.0,200.0,500.0
+6898,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,V,287.0,318.7,1500.0,55000.0,188.0,638.0,1560.0
+6899,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,VI,4221.0,100000.0,160000.0,220000.0,180.0,420.0,874.5
+6900,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,VII,121.0,10000.0,120000.0,200000.0,227.0,846.5,1774.0
+6901,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,VIII,20.0,12500.0,55000.0,130000.0,198.5,324.0,1373.5
+6904,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,XI,80.0,130000.0,180000.0,230000.0,116.0,237.5,512.0
+6907,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,XIV,8.0,300.0,7650.0,15000.0,15.0,28.0,80.0
+6908,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,XV,20.0,25000.0,28000.0,75000.0,153.0,255.0,556.5
+6910,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,XVII,37.0,12500.0,20000.0,62500.0,123.0,310.5,963.5
+6911,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,XVIII,20.0,1500.0,24700.0,150000.0,174.0,404.0,1404.0
+6912,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,I,5976.0,10658.0,45000.0,100000.0,1221.0,2640.0,5355.0
+6913,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,II,82.0,5275.0,15000.0,65000.0,488.0,1269.5,4627.0
+6914,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,III,34.0,27437.51,76139.185,269702.36,1207.0,4007.0,13968.0
+6915,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,IV,259.0,2275.0,4800.0,205400.0,65.0,210.0,620.0
+6916,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,V,3632.0,40000.0,82000.0,180000.0,268.0,727.0,1325.5
+6917,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,VI,16340.0,120000.0,180000.0,270000.0,150.0,330.0,741.0
+6918,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,VII,282.0,35000.0,95000.0,130000.0,94.0,403.0,1331.0
+6919,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,VIII,41.0,75000.0,148750.0,247500.0,190.0,505.0,1363.0
+6920,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,IX,5.0,50000.0,50000.0,50000.0,6852.0,10938.0,34753.0
+6921,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,X,19.0,141000.0,503265.0,1275000.0,905.0,2077.0,9918.0
+6922,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XI,585.0,125000.0,199000.0,320000.0,118.0,222.0,458.0
+6923,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XII,7.0,275000.0,335000.0,815000.0,624.0,1232.0,4456.0
+6924,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XIII,24.0,262500.0,394500.0,592400.0,401.0,408.0,1383.0
+6925,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XIV,10.0,95000.0,130000.0,235000.0,143.0,521.5,770.0
+6926,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XV,264.0,36200.0,85000.0,137000.0,200.0,353.0,959.0
+6928,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XVII,567.0,46725.0,118500.0,249150.0,41.0,322.0,1071.0
+6929,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,XVIII,81.0,55000.0,116684.14,290000.0,96.0,143.0,589.0
+6930,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,I,147.0,8121.0,37722.91,120000.0,980.0,2520.0,5733.0
+6931,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,II,10.0,3100.0,3100.0,3100.0,235.0,448.0,3500.0
+6934,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,V,30.0,140000.0,150000.0,184750.0,460.0,1110.0,1552.0
+6935,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,VI,275.0,95000.0,152500.0,240000.0,160.0,358.0,807.0
+6936,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,VII,18.0,61000.0,87000.0,266000.0,248.0,540.0,1191.0
+6940,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,XI,14.0,81000.0,97000.0,160000.0,216.0,265.0,380.0
+6944,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,XV,6.0,23200.0,48500.0,60000.0,256.0,354.5,1079.0
+6946,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,XVII,14.0,61000.0,75000.0,232000.0,30.0,113.0,493.0
+6948,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,I,18212.0,2089.33,8500.0,47500.0,1250.0,2680.0,5680.0
+6949,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,II,175.0,3500.0,10500.0,35000.0,603.0,1985.0,5184.0
+6950,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,III,48.0,27400.3,50000.0,139404.72,1162.5,3719.0,12559.0
+6951,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,IV,545.0,300.0,1102.5,9667.0,74.0,240.0,670.0
+6952,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,V,5965.0,35000.0,76100.0,160000.0,266.0,755.0,1420.0
+6953,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,VI,28952.0,120000.0,178000.0,260000.0,170.0,391.0,858.0
+6954,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,VII,769.0,37500.0,115000.0,185000.0,136.0,620.0,1523.0
+6955,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,VIII,102.0,44500.0,110000.0,192500.0,216.5,609.0,1579.0
+6956,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,IX,6.0,50000.0,280829.75,511659.5,6852.0,22845.5,34753.0
+6957,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,X,40.0,145000.0,625000.0,1200000.0,1030.0,2114.0,9776.0
+6958,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XI,998.0,125000.0,195000.0,300000.0,128.0,260.0,596.0
+6959,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XII,28.0,275000.0,815000.0,3115000.0,817.0,4454.0,9754.0
+6960,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XIII,60.0,200000.0,271250.0,410000.0,403.0,1218.0,2544.5
+6961,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XIV,29.0,52500.0,112500.0,267500.0,10.0,120.0,533.0
+6962,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XV,397.0,30000.0,75000.0,135000.0,200.0,396.0,1079.5
+6963,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XVI,5.0,342500.0,433000.0,1270000.0,256.0,620.0,908.0
+6964,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XVII,996.0,35000.0,100122.75,235000.0,43.0,350.0,1134.0
+6965,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,XVIII,268.0,24700.0,137500.0,400000.0,136.0,313.0,939.0
+6970,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,V,8.0,327500.0,424412.5,521325.0,428.5,656.0,744.0
+6971,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,VI,523.0,235000.0,340000.0,500000.0,105.0,160.0,265.0
+6976,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,XI,14.0,235000.0,450000.0,600000.0,106.0,130.0,165.0
+6989,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,COMMUNAUTE,VI,481.0,320000.0,320000.0,320000.0,110.0,154.5,236.5
+7006,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,V,11.0,200000.0,200000.0,200000.0,144.0,331.0,492.0
+7007,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,VI,933.0,150000.0,244000.0,400000.0,130.0,207.5,299.0
+7012,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,XI,37.0,245000.0,321000.0,544000.0,75.0,105.0,154.0
+7025,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,VI,740.0,200000.0,340000.0,495000.0,120.0,180.0,265.0
+7027,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,VIII,8.0,1092000.0,1595895.0,2099790.0,118.5,415.5,783.5
+7030,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,XI,72.0,270000.0,3135000.0,6000000.0,105.0,185.0,303.0
+7037,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,XVIII,81.0,35076.27,47538.135,60000.0,220.0,410.0,1262.0
+7043,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,PARTAGE,VI,86.0,253000.0,400000.0,701800.0,143.0,180.0,306.0
+7061,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,SUCCNALAT,VI,724.0,180000.0,256500.0,390000.0,107.0,160.0,237.0
+7066,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,SUCCNALAT,XI,22.0,235000.0,350000.0,510000.0,75.0,117.5,170.0
+7074,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,I,11.0,250000.0,250000.0,250000.0,176.0,352.0,2964.0
+7075,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,II,10.0,125000.0,125000.0,125000.0,431.0,485.0,1620.0
+7078,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,V,57.0,178000.0,500000.0,825000.0,117.0,212.0,415.0
+7079,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,VI,7513.0,166000.0,255000.0,400000.0,110.0,165.0,260.0
+7081,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,VIII,12.0,262500.0,420000.0,521000.0,249.0,425.5,761.5
+7084,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,XI,149.0,300000.0,475000.0,797500.0,75.0,105.0,165.0
+7090,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,XVII,25.0,320000.0,362500.0,675000.0,154.0,244.0,534.5
+7097,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEPUBIMMEUB,VI,113.0,171000.0,310000.0,435750.0,110.0,173.5,245.0
+7102,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEPUBIMMEUB,XI,5.0,277500.0,401500.0,485000.0,90.0,315.0,452.0
+7110,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,I,25.0,1500.0,125750.0,250000.0,209.0,1014.0,2310.0
+7111,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,II,22.0,125000.0,125000.0,125000.0,450.0,756.5,1710.0
+7114,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,V,106.0,200000.0,500000.0,750000.0,105.0,244.0,509.0
+7115,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,VI,11113.0,170000.0,260000.0,405000.0,114.0,170.0,263.0
+7117,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,VIII,27.0,215000.0,440000.0,1092000.0,119.0,248.0,713.0
+7120,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,XI,315.0,286000.0,443368.5,712500.0,82.0,121.0,193.0
+7122,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,XIII,13.0,756999.99,1258800.0,5000000.0,1084.0,1310.0,1725.0
+7126,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,XVII,48.0,338025.0,428750.0,587500.0,124.0,244.0,813.0
+7127,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,XVIII,91.0,35076.27,60000.0,400000.0,210.0,374.0,730.0
+7128,2000,Région flamande,Vlaams Gewest,Flämische Region,CESSION,TOTAL,4243.0,76317.0,190000.0,300000.0,255.0,710.0,1880.0
+7129,2000,Région flamande,Vlaams Gewest,Flämische Region,COMMUNAUTE,TOTAL,9643.0,237650.0,368825.0,500000.0,275.0,550.0,987.0
+7130,2000,Région flamande,Vlaams Gewest,Flämische Region,DONATIMMEUB,TOTAL,9242.0,156525.0,248000.0,331250.0,437.5,1106.0,3514.0
+7131,2000,Région flamande,Vlaams Gewest,Flämische Region,OTHER,TOTAL,9962.0,85000.0,230000.0,340000.0,257.0,609.0,1495.0
+7132,2000,Région flamande,Vlaams Gewest,Flämische Region,PARTAGE,TOTAL,1226.0,114732.6,225000.0,330000.0,457.0,1000.0,3109.5
+7133,2000,Région flamande,Vlaams Gewest,Flämische Region,SUCCNALAT,TOTAL,7976.0,30000.0,183500.0,280000.0,331.0,862.0,2680.0
+7134,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEIMMEUB,TOTAL,51317.0,145000.0,235000.0,339000.0,200.0,463.0,1091.0
+7135,2000,Région flamande,Vlaams Gewest,Flämische Region,VENTEPUBIMMEUB,TOTAL,918.0,153500.0,214500.0,295000.0,229.0,514.0,1231.0
+7136,2000,Région flamande,Vlaams Gewest,Flämische Region,TOTAL,TOTAL,94527.0,140000.0,230000.0,330111.5,243.0,583.0,1454.5
+7137,3000,Région wallonne,Waals Gewest,Wallonische Region,CESSION,TOTAL,3469.0,116000.0,190000.0,265296.0,315.0,965.0,2592.5
+7138,3000,Région wallonne,Waals Gewest,Wallonische Region,COMMUNAUTE,TOTAL,2354.0,102000.0,276000.0,450000.0,290.0,710.0,1491.0
+7139,3000,Région wallonne,Waals Gewest,Wallonische Region,DONATIMMEUB,TOTAL,6744.0,80000.0,150000.0,225000.0,552.0,1468.5,3880.0
+7140,3000,Région wallonne,Waals Gewest,Wallonische Region,OTHER,TOTAL,4517.0,100000.0,190000.0,280000.0,298.5,948.0,2697.5
+7141,3000,Région wallonne,Waals Gewest,Wallonische Region,PARTAGE,TOTAL,3525.0,130000.0,190000.0,275000.0,609.0,1680.0,3918.0
+7142,3000,Région wallonne,Waals Gewest,Wallonische Region,SUCCNALAT,TOTAL,8248.0,7000.0,100000.0,185000.0,295.0,881.5,2350.0
+7143,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEIMMEUB,TOTAL,28212.0,89000.0,160000.0,255000.0,210.0,622.0,1746.0
+7144,3000,Région wallonne,Waals Gewest,Wallonische Region,VENTEPUBIMMEUB,TOTAL,526.0,82500.0,137000.0,235000.0,225.0,619.0,1990.0
+7145,3000,Région wallonne,Waals Gewest,Wallonische Region,TOTAL,TOTAL,57595.0,73000.0,150000.0,240000.0,275.0,850.0,2340.0
+7146,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,CESSION,TOTAL,571.0,235000.0,350000.0,500000.0,106.0,165.0,306.0
+7147,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,COMMUNAUTE,TOTAL,495.0,320000.0,320000.0,320000.0,110.0,154.0,236.5
+7148,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,DONATIMMEUB,TOTAL,997.0,150000.0,249620.0,400000.0,118.0,185.0,297.0
+7149,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,OTHER,TOTAL,948.0,200000.0,370000.0,575000.0,123.0,199.0,320.0
+7150,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,PARTAGE,TOTAL,102.0,253000.0,400000.0,701800.0,125.0,180.0,306.0
+7151,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,SUCCNALAT,TOTAL,760.0,180000.0,260000.0,397500.0,103.0,157.5,238.0
+7152,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEIMMEUB,TOTAL,7794.0,170000.0,262250.0,420000.0,105.0,165.0,270.0
+7153,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,VENTEPUBIMMEUB,TOTAL,122.0,202000.0,325000.0,451000.0,110.0,184.0,315.0
+7154,4000,Région de Bruxelles-Capitale,Brussels Hoofdstedelijk Gewest,Region Brüssel-Hauptstadt,TOTAL,TOTAL,11789.0,171000.0,265000.0,425000.0,110.0,171.0,278.0

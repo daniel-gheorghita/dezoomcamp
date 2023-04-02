@@ -1,0 +1,54 @@
+###
+### A complete description of a Prefect Deployment for flow 'etl-gcs-to-bq-main'
+###
+name: Scheduled and parametrized Opendata Belgium GCS to BigQuery
+description: null
+version: 7f955cda16fdad8259f3f0e186d45e3f
+# The work queue that will handle this deployment's runs
+work_queue_name: default
+work_pool_name: null
+tags: []
+parameters: {"files":["StatisticalUnitWideRealEstateTransactions","ArrondissementWideRealEstateTransactions","DivisionWideRealEstateTransactions","MunicipalityWideRealEstateTransactions","NationalWideRealEstateTransactions","ProvincialWideRealEstateTransactions","RegionalWideRealEstateTransactions"], 
+             "months":[3,6,9,12], 
+             "years":[2016,2017,2018,2019,2020,2021,2022,2023]}
+schedule:
+  cron: 0 0 2 * *
+  timezone: null
+  day_or: true
+is_schedule_active: null
+infra_overrides: {}
+infrastructure:
+  type: process
+  env: {}
+  labels: {}
+  name: null
+  command: null
+  stream_output: true
+  working_dir: null
+  block_type_slug: process
+  _block_type_slug: process
+
+###
+### DO NOT EDIT BELOW THIS LINE
+###
+flow_name: etl-gcs-to-bq-main
+manifest_path: null
+storage: null
+path: /Users/dg/Downloads/dezoomcamp/7_project_Belgium_housing_market/2_flows
+entrypoint: etl_gcs_to_bq.py:etl_gcs_to_bq_main
+parameter_openapi_schema:
+  title: Parameters
+  type: object
+  properties:
+    files:
+      title: files
+      position: 0
+    years:
+      title: years
+      position: 1
+    months:
+      title: months
+      position: 2
+  required: null
+  definitions: null
+timestamp: '2023-04-02T22:10:26.805465+00:00'
