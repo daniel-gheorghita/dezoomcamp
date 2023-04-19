@@ -1,3 +1,7 @@
+### Dashboard
+
+![alt text](https://github.com/daniel-gheorghita/dezoomcamp/blob/main/7_project_Belgium_housing_market/dashboard.png)
+
 ### Start remote servers
 
 on VM: 
@@ -39,3 +43,4 @@ prefect deployment build ./etl_bq_pyspark_bq.py:etl_bq_pyspark_bq_main --name "S
 ’’’
 prefect agent start --work-queue "default" 
 ’’’
+
