@@ -10,7 +10,7 @@ from zipfile import ZipFile
 import shutil
 import numpy as np
 
-LOCAL_PATH = "/Users/dg/Downloads/dezoomcamp/7_project_Belgium_housing_market"
+LOCAL_PATH = "/home/dg/7_project_Belgium_housing_market"
 
 @task(log_prints=True)
 def download_url(url: str, save_path: Path, chunk_size: int=128) -> None:
@@ -64,11 +64,13 @@ def load_raw_clean_save(load_from = None, save_to = None, chunksize=10000):
     header = True
     for df in pd.read_csv(load_from,sep=';', chunksize=10000):
         df = df.dropna()
-        for str_col in ['NISCode', 'Fictious', 'NameFre', 'NameDut', 'NameGer', 'TransactionType', 'ParcelNature']:
+        # NISCode;NameFre;NameDut;NameGer;RegistrationType;LessorType;TakerType;RentsNumber;RentP25;RentP50;RentP75;ChargesP25;ChargesP50;ChargesP75;TotalRentP25;TotalRentP50;TotalRentP75
+        for str_col in ['NISCode', 'Fictious', 'NameFre', 'NameDut', 'NameGer', 'TransactionType', 'ParcelNature', 'RegistrationType', 'LessorType', 'TakerType']:
             try:
                 df[str_col] = df[str_col].astype('str')
             except:
-                print(f"Column {str_col} is not present in this dataframe.")
+                #print(f"Column {str_col} is not present in this dataframe.")
+                pass
         #df.to_parquet(dataset_file_parquet, compression="gzip", header=header, mode='a')
         df.to_csv(save_to, header=header, mode='a')
         header = False
@@ -102,29 +104,40 @@ def write_local(df: pd.DataFrame, dataset_file:Path) -> Path:
 @task()
 def write_gcs(path: Path) -> None:
     """Upload local parquet file to GCS"""
-    gcp_cloud_storage_bucket_block = GcsBucket.load("dezoomcamp-gcs")
+    gcp_cloud_storage_bucket_block = GcsBucket.load("belgium-housing-gcs")
     path_gcs_list = f"{path}".split('/')
-    path_gcs = Path('/'.join([path_gcs_list[-2], path_gcs_list[-1]]))
+    path_gcs = Path('/'.join([path_gcs_list[-3], path_gcs_list[-2], path_gcs_list[-1]]))
     gcp_cloud_storage_bucket_block.upload_from_path(
         from_path=f"{path}",
         to_path=path_gcs
     )
 
 @flow()
-def etl_web_to_gcs(files, year, month) -> None:
+def etl_web_to_gcs(action_type, files, year, month) -> None:
     """The main ETL function"""
 
     day = 31 if month in [3, 12] else 30
     date_encoding = f"{year}{month:02}{day}"
 
-    dataset_url = f"https://opendata.fin.belgium.be/download/datasets/89209670-51ca-11eb-beeb-3448ed25ad7c_{date_encoding}_csv_NA_01000.zip"
-    filepath_zip = Path(os.path.join(*[LOCAL_PATH, 'data', f"{date_encoding}.zip"]))
-    folder_extracted_zip = Path(os.path.join(*[LOCAL_PATH, 'data', f"{date_encoding}"]))
+    if action_type == "leases":
+        base_url = "https://opendata.fin.belgium.be/download/datasets/84d5f470-51ca-11eb-8a67-3448ed25ad7c"
+    elif action_type == "transactions":
+        base_url = "https://opendata.fin.belgium.be/download/datasets/89209670-51ca-11eb-beeb-3448ed25ad7c"
+
+    dataset_url = f"{base_url}_{date_encoding}_csv_NA_01000.zip"
+    base_output_folder = Path(os.path.join(*[LOCAL_PATH, 'data', action_type]))
+    filepath_zip = Path(os.path.join(base_output_folder, f"{date_encoding}.zip"))
+    folder_extracted_zip = Path(os.path.join(base_output_folder, f"{date_encoding}"))
 
 
     for file in files:
-        dataset_file = Path(os.path.join(*[LOCAL_PATH, 'data', date_encoding, f"{file}_{date_encoding}.csv"]))
-        output_folder = Path(os.path.join(*[LOCAL_PATH, 'data', f"{file}"]))
+        # Skip if the action_type does not match the file naming
+        if action_type == "leases" and "Transactions" in file:
+            continue
+        if action_type == "transactions" and "Rents" in file:
+            continue
+        dataset_file = Path(os.path.join(*[base_output_folder, date_encoding, f"{file}_{date_encoding}.csv"]))
+        output_folder = Path(os.path.join(base_output_folder, f"{file}"))
         dataset_file_parquet = Path(os.path.join(output_folder, f"{file}_{date_encoding}.parquet"))
         dataset_file_csv = Path(os.path.join(output_folder, f"{file}_{date_encoding}.csv"))
         os.makedirs(output_folder, exist_ok=True)
@@ -143,9 +156,14 @@ def etl_web_to_gcs(files, year, month) -> None:
             #df = fetch(dataset_file)
             #df = pd.read_csv(dataset_file,sep=';')
 
+            if not os.path.exists(dataset_file):
+                # Not all datasets have the same atomic representation files
+                print(f'Dataset file {dataset_file} does not exist in this folder.')
+                continue
+
             if not os.path.exists(dataset_file_csv):
                 # Load the large raw CSV file, remove the NAN rows and save the result as CSV
-                load_raw_clean_save(load_from = dataset_file,save_to = dataset_file_csv, chunksize=10000)
+                load_raw_clean_save(load_from = dataset_file, save_to = dataset_file_csv, chunksize=10000)
 
             #df = clean(df)
 
@@ -168,12 +186,14 @@ def etl_web_to_gcs(files, year, month) -> None:
         shutil.rmtree(folder_extracted_zip)
 
 @flow(log_prints=True)
-def etl_web_to_gcs_main(files = None, years = None, months = None) -> None:
-    for year in years:
-        for month in months:
-            etl_web_to_gcs(files, year, month)
+def etl_web_to_gcs_main(action_types = None, files = None, years = None, months = None) -> None:
+    for action_type in action_types:
+        for year in years:
+            for month in months:
+                etl_web_to_gcs(action_type, files, year, month)
 
 if __name__ == "__main__":
+    action_types = ["transactions", "leases"]
     months = [3, 6, 9, 12]
     years = list(range(2016,2023))
     #months = [3]
@@ -184,9 +204,15 @@ if __name__ == "__main__":
              'MunicipalityWideRealEstateTransactions',
              'NationalWideRealEstateTransactions',
              'ProvincialWideRealEstateTransactions',
-             'RegionalWideRealEstateTransactions'
+             'RegionalWideRealEstateTransactions',
+            'ArrondissementWideRealEstateRents',  
+            'ProvincialWideRealEstateRents',     
+            'RegionalWideRealEstateRents',
+            'MunicipalityWideRealEstateRents',    
+            'NationalWideRealEstateRents'
              ]
     #base_hash = '89209670-51ca-11eb-beeb-3448ed25ad7c_20160331_csv_NA_01000'
-    # name formatting 89209670-51ca-11eb-beeb-3448ed25ad7c_YYYYMMDD_csv_NA_01000
+    # name formatting for sales 89209670-51ca-11eb-beeb-3448ed25ad7c_YYYYMMDD_csv_NA_01000
+    # name formatting for leases 84d5f470-51ca-11eb-8a67-3448ed25ad7c_YYYYMMDD_csv_NA_01000.zip
     # download link example https://opendata.fin.belgium.be/download/datasets/89209670-51ca-11eb-beeb-3448ed25ad7c_20160331_csv_NA_01000.zip
-    etl_web_to_gcs_main(files=files, years=years, months=months)
+    etl_web_to_gcs_main(action_types=action_types, files=files, years=years, months=months)
