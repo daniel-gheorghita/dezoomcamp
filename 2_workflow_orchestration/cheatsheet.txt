@@ -6,4 +6,6 @@ prefect agent start --work-queue "default"
 
 prefect deployment build ./etl_web_to_gcs.py:etl_web_to_gcs --name "Scheduled basic ETL web to GCS" --cron "0 5 1 * *" -a
 prefect deployment build ./etl_gcs_to_bq.py:etl_gcs_to_bq_main -n "Parameterized GCS to BQ"
+
+First define a github storage block, then:
 prefect deployment build ./2_workflow_orchestration/etl_web_to_gcs.py:etl_web_to_gcs --name "Github ETL to GCS" --tag dev -sb github/dezoomcamp-github -a
