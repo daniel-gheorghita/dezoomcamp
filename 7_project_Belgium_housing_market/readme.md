@@ -22,9 +22,9 @@ Dashboard [link](https://lookerstudio.google.com/reporting/25d568fa-1a4d-4e6c-bc
 
 ### Project folder structure
 
-1_infrastructure: contains the Terraform files for initializing the Google Cloud resources.
-2_flows: contains ETL Prefect scripts and sample deployments.
-3_transformations: contains a Jupyter Notebook for experimenting with PySpark data analysis and transformation (the current functionality is already implemented in a flow). 
+- 1_infrastructure: contains the Terraform files for initializing the Google Cloud resources.
+- 2_flows: contains ETL Prefect scripts and sample deployments.
+- 3_transformations: contains a Jupyter Notebook for experimenting with PySpark data analysis and transformation (the current functionality is already implemented in a flow). 
 
 ### Create the cloud infrastructure
 
