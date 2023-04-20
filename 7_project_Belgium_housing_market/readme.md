@@ -1,3 +1,7 @@
+### Project structure
+![alt text](https://github.com/daniel-gheorghita/dezoomcamp/blob/main/7_project_Belgium_housing_market/project_structure_diagram_no_bg.png)
+
+
 ### Dashboard
 
 ![alt text](https://github.com/daniel-gheorghita/dezoomcamp/blob/main/7_project_Belgium_housing_market/dashboard.png)
