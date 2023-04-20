@@ -1,3 +1,16 @@
+### Project idea
+
+The housing market can be confusing. Should one buy or rent a house or an apartment? 
+
+This project aims at helping one make the decision by showing the evolution of rents and prices over time in a dashboard, as well as the lowest and highest ratio between price and rent for a selected region (or multiple regions).
+
+The evolution of prices can be helpful to determine if an acquisition is a good investment. 
+
+The ratio of price over rent can be interpreted as: "how many monthly payments (each equivalent to the average rent amount) would I need to pay to buy an average-priced accommodation?". For example, if the ratio is 60, it means that 5 years of rents would equivalate to the price of the accommodation. Of course, this is a naive calculation and it does not take into account inflation, indexing or other socio-economic variables. But it does give a starting point.  
+
+For now, the pipeline only covers The Kingdom of Belgium (or simply Belgium, Europe). The data source is the official open data published by the Federal Public Service Finance. The data is analyzed at municipality (commune) division level.   
+
+
 ### Project structure
 ![alt text](https://github.com/daniel-gheorghita/dezoomcamp/blob/main/7_project_Belgium_housing_market/project_structure_diagram_white_bg.png)
 
