@@ -10,6 +10,7 @@ The ratio of price over rent can be interpreted as: "how many monthly payments (
 
 For now, the pipeline only covers The Kingdom of Belgium (or simply Belgium, Europe). The data source is the official open data published by the Federal Public Service Finance. The data is analyzed at municipality (commune) division level.   
 
+All the price and rent values are expressed in euros (EUR).
 
 ### Project structure
 ![alt text](https://github.com/daniel-gheorghita/dezoomcamp/blob/main/7_project_Belgium_housing_market/project_structure_diagram_white_bg.png)
