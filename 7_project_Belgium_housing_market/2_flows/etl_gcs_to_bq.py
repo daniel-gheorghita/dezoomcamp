@@ -7,7 +7,7 @@ from prefect.tasks import task_input_hash
 from datetime import timedelta
 from prefect_gcp import GcpCredentials
 
-LOCAL_PATH = "/home/dg/7_project_Belgium_housing_market"
+LOCAL_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 @task(retries=3)
 def extract_from_gcs(action_type:str, file:str, year:int, month: int) -> Path:

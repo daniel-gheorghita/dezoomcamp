@@ -10,7 +10,7 @@ from zipfile import ZipFile
 import shutil
 import numpy as np
 
-LOCAL_PATH = "/home/dg/7_project_Belgium_housing_market"
+LOCAL_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 @task(log_prints=True)
 def download_url(url: str, save_path: Path, chunk_size: int=128) -> None:

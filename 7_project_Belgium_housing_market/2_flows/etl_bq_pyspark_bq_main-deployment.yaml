@@ -8,7 +8,7 @@ version: 2dfd3700a7c02038924479f63b77d146
 work_queue_name: default
 work_pool_name: null
 tags: []
-parameters: {"files":['MunicipalityWideRealEstate']}
+parameters: {"files":["MunicipalityWideRealEstate"]}
 schedule:
   cron: 0 0 3 * *
   timezone: null
