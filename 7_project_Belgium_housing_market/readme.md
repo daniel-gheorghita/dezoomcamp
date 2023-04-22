@@ -95,7 +95,7 @@ python3 etl_gcs_to_bq.py
 python3 etl_bq_pyspark_bq.py
 ```
 
-Note: for the last one, one needs to install Spark on the machine running the script (local or remote VM). To install Spark, follow the guide corresponding to your OS [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_5_batch_processing/setup).
+Note: for the last one, one needs to install Spark on the machine running the script (local or remote VM). To install Spark, follow the guide corresponding to your OS [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_5_batch_processing/setup). If you do not wish to install Spark locally, you can always use the Google Cloud Platform Dataproc service to run a managed Spark cluster remotely. Check [here](https://cloud.google.com/dataproc/docs/concepts/overview) for the details. If you choose this option, you will need to update the etl_bq_pyspark_bq_main-deployment.yaml with the Dataproc endpoint for the spark_master parameter (currently its value is "local[*]"). 
 
 ### Create deployments
 
