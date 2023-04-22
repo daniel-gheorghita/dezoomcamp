@@ -115,22 +115,22 @@ def upload_df_to_bq(df: pd.DataFrame = None, filename:str = None) -> None:
             if_exists="replace")
 
 @flow(log_prints=True)
-def etl_bq_pyspark_bq(filename:str = None) -> None:
+def etl_bq_pyspark_bq(filename:str = None, spark_master:str = None) -> None:
 
     # Get dataframes from BQ
     leases_df = get_bq_dataframe(filename, "lease")
     transactions_df = get_bq_dataframe(filename, "transaction")
 
     # Transform and create a joint dataframe
-    transactions_and_leases_df = pyspark_transform(leases_df, transactions_df)
+    transactions_and_leases_df = pyspark_transform(leases_df, transactions_df, spark_master)
 
     # Upload Pandas df to BQ
     upload_df_to_bq(transactions_and_leases_df, filename)   
 
 @flow(log_prints=True)
-def etl_bq_pyspark_bq_main(files:list[str] = None) -> None:
+def etl_bq_pyspark_bq_main(files:list[str] = None, spark_master:str = None) -> None:
     for filename in files:
-        etl_bq_pyspark_bq(filename)
+        etl_bq_pyspark_bq(filename, spark_master)
 
 if __name__ == "__main__":
     '''
@@ -144,4 +144,5 @@ if __name__ == "__main__":
             ]
     '''
     files = ['MunicipalityWideRealEstate']
-    etl_bq_pyspark_bq_main(files)
+    spark_master = "local[*]"
+    etl_bq_pyspark_bq_main(files, spark_master)
