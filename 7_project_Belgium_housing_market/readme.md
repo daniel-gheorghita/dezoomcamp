@@ -82,6 +82,8 @@ Two credential blocks need to be created (use the Service Account JSON token gen
 
 Note: if you change these names, the Python scripts must be adapted also.
 
+### Running the pipeline manually
+
 Now you can simply run the ETL pipeline as Python scripts. Navigate to the 2_flows folder and run:
 ```
 python3 etl_web_to_gcs.py
@@ -113,17 +115,23 @@ Create a scheduled (every 2nd of each month at 00:00) deployment for taking the 
 prefect deployment build ./etl_gcs_to_bq.py:etl_gcs_to_bq_main --name "Scheduled and parametrized Opendata Belgium GCS to BigQuery" --cron "0 0 2 * *" -a
 ```
 
-Create a scheduled (every 3rd day of each month at 00:00) deployment for taking the BigQuery separated data of leases and rent and creating a new joint dataset and upload it to BigQuery: 
+Create a scheduled (every 3rd day of each month at 00:00) deployment for taking the BigQuery separated data of leases and transactions, creating a new joint processed dataset and uploading it to BigQuery: 
 ```
 prefect deployment build ./etl_bq_pyspark_bq.py:etl_bq_pyspark_bq_main --name "Scheduled and parametrized BigQuery transformation with PySpark" --cron "0 0 3 * *" -a
 ```
 
 Use the existing deployment files in this repository for reference regarding the deployment parameters.
 
+### Running the pipeline automatically
+
 Once the deployments are created, start the Prefect worker:
 ```
 prefect agent start --work-queue "default" 
 ```
+
+The pipeline will now run **automatically** based on the schedule set when creating the deployments above. 
+
+You can also trigger parts of the pipeline via the Prefect Orion web interface.
 
 
 ### Running Jupyter Notebook remotely
@@ -150,7 +158,9 @@ Add check of already processed data in order to avoid redoing the same job every
 
 Add check of new data source in the source, instead of always downloading the newest version of everything.
 
-More scalable local storage strategy. 
+More scalable local storage strategy.
+
+Set trigger when one flow is done to start the next step in the DAG. 
 
 ### Acknowledgements
 
